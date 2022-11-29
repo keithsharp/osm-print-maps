@@ -1,4 +1,4 @@
-# Maps Virtual Challenges
+# Mapping Virtual Challenges
 This is the notes, scripts, and tools I used to build the maps for the virtual running challenges.
 
 ## Specific Maps
